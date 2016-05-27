@@ -1,3 +1,14 @@
 body {
   padding: 70px;
+  background-color: lightgrey;
+}
+
+.navbar {
+  background-color: maroon
+}
+
+.jumbotron {
+  max-width: 500px;
+  background-color: lightblue;
+  padding: 30px;
 }
