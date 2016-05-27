@@ -9,6 +9,17 @@ body {
 
 .jumbotron {
   max-width: 500px;
-  background-color: lightblue;
   padding: 30px;
+}
+
+.frontpage {
+  background-color: lightblue;
+}
+
+OL {
+  font-size: 30px;
+}
+
+li {
+  font-size: 20px;
 }
