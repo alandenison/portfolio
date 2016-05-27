@@ -24,10 +24,11 @@ li {
   font-size: 20px;
 }
 
-.profilepic {
-  float:right;
-}
-
 img {
   max-height: 250px;
+  float: right;
+}
+
+.jobtitle {
+  font-weight: bold;
 }
