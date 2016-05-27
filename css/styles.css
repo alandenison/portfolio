@@ -1,6 +1,8 @@
 body {
   padding: 70px;
-  background-color: lightgrey;
+  background-color: #004de6;
+  color:white;
+
 }
 
 .navbar {
@@ -10,10 +12,11 @@ body {
 .jumbotron {
   max-width: 500px;
   padding: 30px;
+  border: 5px solid white;
 }
 
 .frontpage {
-  background-color: lightblue;
+  background-color: #800080;
 }
 
 OL {
@@ -31,4 +34,13 @@ img {
 
 .jobtitle {
   font-weight: bold;
+}
+
+
+.aboutme {
+  color: black;
+}
+
+.projects{
+  color: black;
 }
