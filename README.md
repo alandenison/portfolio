@@ -27,4 +27,4 @@ HTML, CSS, Bootstrap
 
 This is licensed under the MIT license.
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 Alan Denison

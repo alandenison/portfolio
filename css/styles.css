@@ -2,17 +2,10 @@ body {
   padding: 70px;
   background-color: #004de6;
   color:white;
-
 }
 
 .navbar {
   background-color: maroon
-}
-
-.jumbotron {
-  max-width: 500px;
-  padding: 30px;
-  border: 5px solid white;
 }
 
 .frontpage {
@@ -35,7 +28,6 @@ img {
 .jobtitle {
   font-weight: bold;
 }
-
 
 .aboutme {
   color: black;
