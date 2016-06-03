@@ -9,7 +9,7 @@ By Alan Denison
 ## Setup/Installation Requirements
 
 Viewable in modern web browsers.
-
+http://alandenison.github.io/portfolio/
 
 ## Known Bugs
 
@@ -17,7 +17,7 @@ None
 
 ## Support and contact details
 
-If you have any quesitons please email me at alan79td@gmail.com
+If you have any questions please email me at alan79td@gmail.com
 
 ## Technologies Used
 
